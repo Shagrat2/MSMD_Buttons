@@ -19,6 +19,5 @@ License: CERN Open Hardware License
 - Factory programmed with DualOptiBoot bootloader.
 
 #Available pins
-- GND
 - 6 buttons
 - Programming connector
